@@ -1,2 +1,2 @@
 # FullStack
-Full Stack Open Webcourse
+Full stack open webcourse submissions (in Finnish)
