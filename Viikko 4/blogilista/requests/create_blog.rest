@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs/
+Content-Type: application/json
+
+{
+    "title": "punainen jaguaari rides again 2",
+    "author": "Jerry Cotton",
+    "url": "www.jeejee.com",
+    "likes": 3
+}
