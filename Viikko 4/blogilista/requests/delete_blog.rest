@@ -1,10 +1,3 @@
-POST http://localhost:3003/api/blogs/
+DELETE  http://localhost:3003/api/blogs/624324f2f6d614cdb8c64f10
 Content-Type: application/json
 Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlJhYWthLUFyc2thIiwiaWQiOiI2MjQzMTQ1M2M2OTY5ZWI2YTYzMmE3YWQiLCJpYXQiOjE2NDg1NjM5MDN9.G_MFTlmCkYwaB4ZUuY3ahH3uiIvKecMWqYFNLkKklcw
-
-{
-    "title": "punainen jaguaari rides again 2",
-    "author": "Jerry Cotton",
-    "url": "www.jeejee.com",
-    "likes": 3
-}
