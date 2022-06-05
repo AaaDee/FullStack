@@ -1,0 +1,49 @@
+{
+  "notes": [
+    {
+      "content": "custom-hooks are great",
+      "id": 1
+    },
+    {
+      "content": "the best featrure ever <3",
+      "id": 2
+    },
+    {
+      "content": "dfsafdsa",
+      "id": 3
+    },
+    {
+      "content": "asfad",
+      "id": 4
+    },
+    {
+      "content": "a",
+      "id": 5
+    },
+    {
+      "content": "b",
+      "id": 6
+    },
+    {
+      "content": "fdas",
+      "id": 7
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "kaltsoon",
+      "number": "045-2323456",
+      "id": 2
+    },
+    {
+      "name": "a",
+      "number": "235523",
+      "id": 3
+    }
+  ]
+}
